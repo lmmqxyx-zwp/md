@@ -15,3 +15,13 @@ http://markdown.xiaoshujiang.com/
 
 编辑器
 http://www.williamlong.info/archives/4319.html
+
+##■markdown文本注释
+######<font style="color:red">markdown注释的写法</font>
+--[comment]:<>(注释) <br/>
+--[//]:<>(注释) <br />
+--[//]:(注释) <br />
+--[//]:<>(注释) <br />
+--[//]:#(注释) <br />
+
+
